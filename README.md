@@ -3,8 +3,9 @@ Python script to upload files to Virus Total and then display results in thermin
 
 usage:
 
+```
 pyrus.py <filename>
-
+```
 
 Important notes: 
 
